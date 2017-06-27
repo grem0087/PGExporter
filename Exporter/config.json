@@ -1,0 +1,53 @@
+{
+  "OutputFile": "./output.sql",
+  "Owner": "CreditClubService",
+  "ConnectionString": "User Id=CreditClubService;Password=rfhnsltymub2cndjkf;Host=localhost;Port=5432;Database=CreditClubDB;",
+  "Tables": [
+    {
+      "Schema": "Credit",
+      "Name": "credit_product_field",
+      "HasHistory": "true"
+    },
+    {
+      "Schema": "Common",
+      "Name": "dynamic_button_field_action",
+      "HasHistory": "true"
+    },
+    {
+      "Schema": "Common",
+      "Name": "dynamic_button_field_extension",
+      "HasHistory": "true"
+    },
+    {
+      "Schema": "Common",
+      "Name": "dynamic_container_field_extension",
+      "HasHistory": "true"
+    },
+    {
+      "Schema": "Common",
+      "Name": "dynamic_container_field_extension_field",
+      "HasHistory": "true"
+    },
+    {
+      "Schema": "Common",
+      "Name": "dynamic_field_description",
+      "HasHistory": "true"
+    },
+    {
+      "Schema": "Common",
+      "Name": "dynamic_list_field_extension",
+      "HasHistory": "true"
+    },
+    {
+      "Schema": "Common",
+      "Name": "dynamic_set",
+      "HasHistory": "true"
+    },
+    {
+      "Schema": "Common",
+      "Name": "dynamic_set_field",
+      "HasHistory": "true"
+    }
+
+  ]
+}
